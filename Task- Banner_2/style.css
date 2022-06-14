@@ -1,0 +1,69 @@
+:root {
+    --font_color : #fefffb;
+}
+body {
+    width: 45%;
+    background-color: azure;
+    color: var(--font_color);
+}
+#body_cont {
+    background-color: #303e47;
+}
+#logo{
+    height: 4rem;
+    padding-right: 1rem;
+}
+#dis {
+    color: #ff5857;
+    margin: 0;
+}
+#chi {
+    color: #eaf2f4;
+}
+#first_img, #ninth_img {
+    height: 4rem;
+    width: 4rem;
+}
+#second_img {
+    height: 3rem;
+    width: 3rem;
+}
+#first_card {
+    background-color: #ff9e1b;
+}
+#second_card {
+    background-color: #00b2e2;
+}
+#third_card {
+    background-color: #ff5959;
+}
+.third_img {
+    height: 50px;
+    width: 50px;
+}
+#forth_card {
+    background-color: #00b2e2;
+}
+#fifth_card, #tenth_card {
+    background-color: #ff5959;
+}
+#sixth_card {
+    background-color: #ff9e1b;
+}
+#fifth_img, #sixth_img {
+    height: 100px;
+    width: 70px;
+}
+#Seventh_card {
+    background-color: #00b2e2;
+    height: 10rem;
+}
+#Seventh_img, #eight_img {
+    width: 10rem;
+}
+#eight_card {
+    background-color: #ff9e1b;
+}
+#ninth_card {
+    background-color: #00b2e2;
+}

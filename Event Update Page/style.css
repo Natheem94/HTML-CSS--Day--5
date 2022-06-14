@@ -1,0 +1,18 @@
+body {
+    background-image: url("pics/motion-picture-reel-film-strip-old-35724067.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#content_cont {
+    width: 75%;
+    /* height: 25rem; */
+}
+/* #img-cont, form{
+    height: 25rem;
+} */
+#img {
+    height: 15rem;
+    border-radius: 25px;
+}
